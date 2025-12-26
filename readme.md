@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Harsh+Pandey;Architecting+AI+Agents;Building+Startup+MVPs;Designing+OS-like+Interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=450&color=2DFF9D&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Harsh;Full-Stack+Developer;Web+%7C+Mobile+%7C+Desktop;Turning+Ideas+Into+Products&shadow=0+0+5+2DFF9D,0+0+15+2DFF9D,0+0+30+2DFF9D" />
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Product--Driven-Full--Stack_%26_AI_Developer-0D1117?style=for-the-badge&logoColor=white&color=0D1117" alt="Title" />
+  <img src="https://img.shields.io/badge/Product--Driven-Full--Stack_Developer-0D1117?style=for-the-badge&logoColor=white&color=0D1117" alt="Title" />
 </h3>
 
 <br/>
-
-<h2>⚡ Tech Stack</h2>
 
 <table align="center" style="border: none;">
   <tr>
