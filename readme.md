@@ -8,18 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/201Harsh">
-  <img src="https://readme-stats-git-master-rstaa-rs-projects.vercel.app/api?module=user&type=terminal&username=201Harsh&theme=dracula&hide_border=true" alt="Harsh's Terminal" />
-</a>
-
-<br/>
-
-<p align="center">
- <i>"I don't just code — I <b>design systems</b>. Focusing on real-world, production-grade architectures."</i>
-</p>
-
-<br/>
-
 <h2>⚡ Tech Stack</h2>
 
 <table align="center" style="border: none;">
@@ -73,15 +61,10 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=201Harsh&show_icons=true&theme=midnight-d&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=201Harsh&layout=compact&theme=midnight-d&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6" height="160" alt="Langs" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://www.linkedin.com/in/201harsh/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:gamerpandeyharsh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
