@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=450&color=97489B&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Harsh;Full-Stack+Developer;Web+%7C+Mobile+%7C+Desktop;Turning+Ideas+Into+Products&shadow=0+0+5+2DFF9D,0+0+15+2DFF9D,0+0+30+2DFF9D" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=150&color=97489B&center=true&vCenter=true&width=620&lines=Hi%2C+I+am+Harsh;Full-Stack+Developer;Web+%7C+Mobile+%7C+Desktop;Turning+Ideas+Into+Products&shadow=0+0+5+2DFF9D,0+0+15+2DFF9D,0+0+30+2DFF9D" />
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/Product--Driven-Full--Stack_Developer-0D1117?style=for-the-badge&logoColor=white&color=0D1117" alt="Title" />
